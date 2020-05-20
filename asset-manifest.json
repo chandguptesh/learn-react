@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/chandguptesh/learn-react/static/css/main.f6d93501.chunk.css",
+    "main.js": "/chandguptesh/learn-react/static/js/main.077d8167.chunk.js",
+    "main.js.map": "/chandguptesh/learn-react/static/js/main.077d8167.chunk.js.map",
+    "runtime-main.js": "/chandguptesh/learn-react/static/js/runtime-main.e34ef831.js",
+    "runtime-main.js.map": "/chandguptesh/learn-react/static/js/runtime-main.e34ef831.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/chandguptesh/learn-react/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.800020c3.chunk.js": "/chandguptesh/learn-react/static/js/2.800020c3.chunk.js",
+    "static/js/2.800020c3.chunk.js.map": "/chandguptesh/learn-react/static/js/2.800020c3.chunk.js.map",
+    "index.html": "/chandguptesh/learn-react/index.html",
+    "precache-manifest.c91f6d1f885b605860b8372fa3fb0f7b.js": "/chandguptesh/learn-react/precache-manifest.c91f6d1f885b605860b8372fa3fb0f7b.js",
+    "service-worker.js": "/chandguptesh/learn-react/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/chandguptesh/learn-react/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.f6d93501.chunk.css.map": "/chandguptesh/learn-react/static/css/main.f6d93501.chunk.css.map",
+    "static/js/2.800020c3.chunk.js.LICENSE.txt": "/chandguptesh/learn-react/static/js/2.800020c3.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/chandguptesh/learn-react/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e34ef831.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.800020c3.chunk.js",
+    "static/css/main.f6d93501.chunk.css",
+    "static/js/main.077d8167.chunk.js"
+  ]
+}
